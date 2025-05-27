@@ -1,4 +1,3 @@
-# 2025-1A-T05-CC11
 
 <div align="center">
     <img src="https://drive.google.com/file/d/1ZHZ2eScrEyGhpdqGM1u7qab-ftT4cc-U/view?usp=drive_link"  width="200">
