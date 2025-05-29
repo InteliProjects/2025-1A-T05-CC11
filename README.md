@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://logospng.org/wp-content/uploads/uber.png"  width="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Uber_logo_2018.png"  width="200">
 </div>
 
 
